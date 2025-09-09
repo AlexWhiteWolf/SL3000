@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/levinhuang2013/immortalwrt-mt798x
+  REPO_URL: https://github.com/ysn888/immortalwrt-mt798x
   REPO_BRANCH: s20p
   FEEDS_CONF: hanwckf/feeds.conf.default
   CONFIG_FILE: hanwckf/s20p-lgs2007m.config
